@@ -33,7 +33,9 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
-    display: block;   
+    display: block; 
+	opacity:0.2;
+	filter: alpha(opacity=50);
 }
 
 #about{
