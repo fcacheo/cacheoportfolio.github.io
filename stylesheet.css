@@ -34,8 +34,7 @@ body{
     top: 0px;
     left: 0px;
     display: block; 
-	opacity:0.2;
-	filter: alpha(opacity=50);
+	
 }
 
 #about{
@@ -116,6 +115,8 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
+	opacity:0.2;
+	filter: alpha(opacity=50);
 
 }
 
