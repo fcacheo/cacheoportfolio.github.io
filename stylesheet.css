@@ -18,14 +18,12 @@ body{
 #portfolio{
     height: 500px;
 }
-#technical{
-	height:300px;
 
 #contact{
     height: 400px;
 }
 
-#about, #portfolio, #technical, #contact{
+#about, #portfolio, #contact{
     padding-top: 50px;
 	color:white;
 }
@@ -57,14 +55,6 @@ body{
     top: 200%;
     left: 0px;
     display: block;
-}
-#technical{	
-
-    width: 100%;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    display: block; 
 }
 
 #contact{
@@ -206,22 +196,6 @@ hr{
 .portfolio-item:hover{
     transition: 0.5s;
     opacity: 0.5;
-}
-/*Technical*/
-.tech-info{
-    font-size: 22px;
-    color:#000;
-    font-family: 'Sahitya', cursive, sans-serif;
-}
-
-.tech-style{
-    border: thin solid;
-    color: darkgrey;
-    opacity: 0.7;
-    padding-top: 30px;
-    padding-bottom: 20px;
-    background-color: gainsboro;
-    border-radius: 0.5%;
 }
 
 /*Contact*/
