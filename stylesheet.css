@@ -22,7 +22,7 @@ body{
     height: 680px !important;
 }
 
-#about, #portfolio, #contact{
+#about, #portfolio, #home, #contact{
     padding-top: 70px;
 	color:white;
 
@@ -118,6 +118,7 @@ nav li a{
     font-weight: 800;
 background: rgb(0, 0, 0); 
   background: rgba(0, 0, 0, 0.5);
+	opacity:.7;
 	
 
 }
