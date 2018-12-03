@@ -32,7 +32,7 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
- 
+ background: red;
 	
 	
 }
@@ -111,14 +111,14 @@ nav li a{
 
 /*Home Page*/
 .home-style{
-    background-color: transparent
+    background-color: transparent;
 }
 
 .home-page{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-	background-color:transparent;
+	
 
 }
 .image{
