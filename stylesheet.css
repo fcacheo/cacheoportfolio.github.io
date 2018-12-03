@@ -33,7 +33,6 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
- background-color:light grey !important;
 	
 	
 }
@@ -116,8 +115,8 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-background: rgb(0, 0, 0); 
-  background: rgba(0, 0, 0, 1);
+background-color: rgb(0, 0, 0); 
+  background-color: rgba(0, 0, 0, 1);
 	
 	
 
@@ -131,7 +130,7 @@ display: block;
 
 .style-name{
     font-size: 90px;
-	color:grey;
+	color:white;
 }
 
 .style-description{
