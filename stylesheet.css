@@ -32,7 +32,7 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
-    display: block;
+ 
 	
 	
 }
@@ -111,13 +111,8 @@ nav li a{
 
 /*Home Page*/
 .home-style{
-	border: thin solid;
-    color: darkgrey;
-    opacity: 0.7;
-    padding-top: 40px;
-    padding-bottom: 30px;
-    background-color: gainsboro;
-    border-radius: 0.5%;
+	opacity: 1.0;
+    background-color: transparent
 }
 
 .home-page{
