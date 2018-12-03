@@ -117,8 +117,8 @@ nav li a{
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
 background: rgb(0, 0, 0); 
-  background: rgba(0, 0, 0, 0.5);
-	opacity:.7;
+  background: rgba(0, 0, 0, 1);
+	
 	
 
 }
