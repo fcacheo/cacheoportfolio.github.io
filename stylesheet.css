@@ -32,7 +32,7 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
- background-color:transparent;
+ background-color:transparent !important;
 	
 	
 }
@@ -111,7 +111,7 @@ nav li a{
 
 /*Home Page*/
 .home-style{
-    background-color: transparent;
+    background-color: transparent !important;
 }
 
 .home-page{
