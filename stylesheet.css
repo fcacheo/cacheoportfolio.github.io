@@ -18,6 +18,8 @@ body{
 #portfolio{
     height: 500px;
 }
+#technical{
+	height:400px;
 
 #contact{
     height: 400px;
@@ -60,7 +62,7 @@ body{
 height: 100%;
     width: 100%;
     position: absolute;
-    top: 100%;
+    top: 0px;
     left: 0px;
     display: block; 
 }
