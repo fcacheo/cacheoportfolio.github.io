@@ -111,14 +111,13 @@ nav li a{
 }
 
 /*Home Page*/
-.home-style{
-    background-color: transparent !important;
-}
 
 .home-page{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
+background: rgb(0, 0, 0); 
+  background: rgba(0, 0, 0, 0.5);
 	
 
 }
