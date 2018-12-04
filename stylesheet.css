@@ -45,7 +45,7 @@ body{
     left: 0px;
 	bottom:300px;
     display: block;   
-background-color: hsla(0, 0%, 0%, 0.75) !important;
+
 }
 
 #about{
@@ -148,7 +148,7 @@ nav li a{
     font-size: 35px;
     padding-bottom: 25px;
     color: darkgrey;
-background-color: hsla(0, 0%, 0%, 0.75) !important;
+
 }
 
 hr{
