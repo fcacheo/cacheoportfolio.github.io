@@ -54,7 +54,8 @@ background-color: hsla(0, 0%, 0%, 0.75);
     position: absolute;
     top: 100%;
     left: 0px;
-    display: block;    
+    display: block; 
+background-color: hsla(0, 0%, 0%, 0.75);
 }
 
 #portfolio{
@@ -140,7 +141,7 @@ nav li a{
 
 .style-name{
     font-size: 90px;
-    color: gray;
+    color: white;
 }
 
 .style-description{
