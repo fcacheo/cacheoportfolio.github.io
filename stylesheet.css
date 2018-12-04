@@ -149,10 +149,9 @@ hr{
     color: #fff !important;
 }
 
-.btn-facebook, 
-.btn-twitter, 
-.btn-linkedin, 
-.btn-github, 
+ 
+ 
+.btn-linkedin,  
 .btn-freecodecamp {
     font-size: 1.6em;
     background-color: dimgrey;
@@ -162,20 +161,8 @@ hr{
     padding-top: 30px;
 }
 
-.btn-facebook:hover{
-    background-color: #3B5998;
-}
-
-.btn-twitter:hover{
-    background-color: #00ACEE;
-}
-
 .btn-linkedin:hover{
     background-color: #007BB6;
-}
-
-.btn-github:hover{
-    background-color: #444444;
 }
 
 .btn-freecodecamp:hover{
