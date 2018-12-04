@@ -19,7 +19,7 @@ body{
     height: 600px !important;
 }
 #contact{
-    height: 600px !important;
+    height: 680px !important;
 }
 
 #about, #portfolio, #home, #contact{
@@ -33,6 +33,7 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
+	display:block;
 
 }
 
