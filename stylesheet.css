@@ -19,6 +19,7 @@ body{
 
 #home{
     height: 500px !important;
+	background-color: hsla(0, 0%, 0%, .1) !important;
 }
 
 #portfolio{
@@ -43,9 +44,8 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
-	bottom:300px;
+bottom:300px;
     display: block;  
-background-color: hsla(0, 0%, 0%, .1) !important;
 }
 
 }
@@ -150,7 +150,6 @@ background-color: hsla(0, 0%, 0%, .1) !important;
     font-size: 35px;
     padding-bottom: 25px;
     color: darkgrey;
-	background-color: hsla(0, 0%, 0%, .1) !important;
 
 }
 
@@ -173,7 +172,6 @@ hr{
 
 .btnList{
     padding-top: 30px;
-	background-color: hsla(0, 0%, 0%, .1) !important;
 }
 
 .btn-linkedin:hover{
