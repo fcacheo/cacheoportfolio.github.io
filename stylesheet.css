@@ -137,7 +137,7 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-
+background-color: hsla(0, 0%, 0%, .1) !important;
 }
 
 
@@ -150,16 +150,13 @@ nav li a{
     font-size: 35px;
     padding-bottom: 25px;
     color: darkgrey;
+	background-color: hsla(0, 0%, 0%, .1) !important;
 
 }
 
 hr{
     height: 3px !important;
     background-color:darkgray;
-}
-
-.btn{
-    color: #fff;
 }
 
 .btn{
@@ -176,6 +173,7 @@ hr{
 
 .btnList{
     padding-top: 30px;
+	background-color: hsla(0, 0%, 0%, .1) !important;
 }
 
 .btn-linkedin:hover{
