@@ -216,6 +216,7 @@ hr{
 color:white;
 font-size:22px;
 font-family: 'Sahitya', cursive, sans-serif;
+}
  
 .portfolio-item:hover{
     transition: 0.5s;
