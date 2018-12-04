@@ -216,6 +216,10 @@ hr{
     transition: 0.5s;
     opacity: 0.5;
 }
+.text-white{
+color:white;
+}
+
 /*Relection*/
  .about-info{
     font-size: 22px;
