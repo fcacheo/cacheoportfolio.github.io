@@ -34,7 +34,7 @@ body{
     top: 0px;
     left: 0px;
 display:block;
-	background:light grey !important;
+	background-color:none !important;
 
 }
 
@@ -60,7 +60,7 @@ display:block;
     height: 100%;
     width: 100%;
     position: absolute;
-    top: 300%;
+    top: 200%;
     left: 0px;
     display: block;   
 }
