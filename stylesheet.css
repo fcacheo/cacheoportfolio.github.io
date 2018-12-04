@@ -122,11 +122,11 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
+background: rgb(255, 255, 255) transparent;
+background: rgba(255, 255, 255, 0.8);
 
 }
-.transparent{
-	 background-color: rgba(0,0,0,0.15);
-}
+
 
 .style-name{
     font-size: 90px;
