@@ -7,7 +7,9 @@ html{
 }
 img{
 max-width:100%;
-	height:auto;
+height:auto;
+margin:auto;
+border-radius: 25px;
 }
 
 body{
