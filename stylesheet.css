@@ -22,19 +22,17 @@ body{
     height: 680px !important;
 }
 
-#about, #portfolio,#reflect #contact{
+#about, #portfolio, #reflect #contact{
     padding-top: 70px;
-	color:white;
-
 }
+
 #home{
     height: 100%;
     width: 100%;   
     position: absolute;
     top: 0px;
     left: 0px;
-display:block;
-
+    display: block;   
 }
 
 #about{
@@ -54,7 +52,7 @@ display:block;
     left: 0px;
     display: block;
 }
-#reflect{
+ #reflect{
     height: 100%;
     width: 100%;
     position: absolute;
@@ -67,7 +65,7 @@ display:block;
     height: 100%;
     width: 100%;
     position: absolute;
-    top: 400%;
+    top: 420%;
     left: 0px;
     display: block;   
 }
@@ -123,20 +121,12 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-	background:#7f7f7f;
-background-color: rgba(255, 255, 255, 0.5);	
 
-}
-.image{
-display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 
 .style-name{
     font-size: 90px;
-	color:white;
+    color: gray;
 }
 
 .style-description{
@@ -158,8 +148,10 @@ hr{
     color: #fff !important;
 }
 
- 
+.btn-facebook, 
+.btn-twitter, 
 .btn-linkedin, 
+.btn-github, 
 .btn-freecodecamp {
     font-size: 1.6em;
     background-color: dimgrey;
@@ -169,8 +161,20 @@ hr{
     padding-top: 30px;
 }
 
+.btn-facebook:hover{
+    background-color: #3B5998;
+}
+
+.btn-twitter:hover{
+    background-color: #00ACEE;
+}
+
 .btn-linkedin:hover{
     background-color: #007BB6;
+}
+
+.btn-github:hover{
+    background-color: #444444;
 }
 
 .btn-freecodecamp:hover{
@@ -197,7 +201,6 @@ hr{
     background-color: gainsboro;
     border-radius: 0.5%;
 }
-
      
 /*Portfolio*/
 
@@ -212,8 +215,7 @@ hr{
     transition: 0.5s;
     opacity: 0.5;
 }
-/*Reflection*/
-.about-info{
+ .about-info{
     font-size: 22px;
     color:#000;
     font-family: 'Sahitya', cursive, sans-serif;
@@ -228,6 +230,7 @@ hr{
     background-color: gainsboro;
     border-radius: 0.5%;
 }
+     
 
 /*Contact*/
 @import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
@@ -247,17 +250,16 @@ hr{
 }
 
 .ccform-addon{
-	color: white; 
+	color:000000; 
 	float:left;
 	padding:8px;
 	width:8%;
 	text-align:center;
   padding-top: 15px;
-  
 }
 
 .ccformfield {
-	color:#000; 
+	color:#000000; 
 	background-color: beige;
 	border:none;
 	padding:15.5px;
@@ -303,4 +305,3 @@ hr{
     margin-top: 15px;
     text-align: center;
 }
-
