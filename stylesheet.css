@@ -209,16 +209,16 @@ hr{
     margin-right: auto;
     margin-left: auto;
     width: auto;
-	color:white;
+}
+.portfolio-item:p{
+color:white;
 }
  
 .portfolio-item:hover{
     transition: 0.5s;
     opacity: 0.5;
 }
-.text-white{
-color:white;
-}
+
 
 /*Relection*/
  .about-info{
