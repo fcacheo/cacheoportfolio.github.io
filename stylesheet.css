@@ -33,7 +33,8 @@ body{
     position: absolute;
     top: 0px;
     left: 0px;
-	display:block;
+display:block;
+	background:light grey !important;
 
 }
 
