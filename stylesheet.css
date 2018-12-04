@@ -21,7 +21,9 @@ body{
     height: 500px !important;
 	background-color: hsla(0, 0%, 0%, .9) !important;
 }
-
+#about{
+height:600px !important;	
+}
 #portfolio{
     height: 600px !important;
 }
@@ -30,7 +32,7 @@ body{
 }
 
 #contact{
-    height: 680px !important;
+    height: 600px !important;
 }
 
 #about, #portfolio, #reflect, #contact{
