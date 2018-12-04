@@ -22,7 +22,7 @@ body{
     height: 680px !important;
 }
 
-#about, #portfolio,#contact{
+#about, #portfolio, #reflect, #contact{
     padding-top: 70px;
 	color:white;
 }
@@ -52,7 +52,6 @@ body{
     top: 200%;
     left: 0px;
     display: block;
-	color:white;
 }
  #reflect{
     height: 100%;
@@ -123,7 +122,7 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-
+background-color: none !important;
 }
 
 .style-name{
