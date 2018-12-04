@@ -39,6 +39,7 @@ body{
     left: 0px;
 	bottom:300px;
     display: block;   
+background-color: hsla(0, 0%, 0%, 0.75);
 }
 
 #about{
@@ -127,8 +128,6 @@ nav li a{
     padding-top: 150px;
     font-family: 'Sahitya', cursive, sans-serif;
     font-weight: 800;
-background: rgb(255, 255, 255) transparent;
-background: rgba(255, 255, 255, 0.8);
 
 }
 
