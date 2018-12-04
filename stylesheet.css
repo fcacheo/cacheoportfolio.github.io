@@ -22,7 +22,7 @@ body{
     height: 680px !important;
 }
 
-#about, #portfolio, #contact{
+#about, #portfolio,#reflect #contact{
     padding-top: 70px;
 	color:white;
 
