@@ -18,6 +18,10 @@ body{
 #portfolio{
     height: 600px !important;
 }
+#reflect{
+    height: 600px !important;
+}
+
 #contact{
     height: 680px !important;
 }
