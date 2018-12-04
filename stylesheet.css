@@ -22,7 +22,7 @@ body{
     height: 680px !important;
 }
 
-#about, #portfolio, #home, #contact{
+#about, #portfolio, #contact{
     padding-top: 70px;
 	color:white;
 
@@ -54,6 +54,14 @@ display:block;
     top: 200%;
     left: 0px;
     display: block;
+}
+#reflect{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 300%;
+    left: 0px;
+    display: block;    
 }
 
 #contact{
@@ -204,6 +212,22 @@ hr{
 .portfolio-item:hover{
     transition: 0.5s;
     opacity: 0.5;
+}
+/*Reflection*/
+.about-info{
+    font-size: 22px;
+    color:#000;
+    font-family: 'Sahitya', cursive, sans-serif;
+}
+
+.about-style{
+    border: thin solid;
+    color: darkgrey;
+    opacity: 0.7;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    background-color: gainsboro;
+    border-radius: 0.5%;
 }
 
 /*Contact*/
