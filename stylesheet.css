@@ -166,7 +166,8 @@ hr{
  
  
 .btn-linkedin,  
-.btn-freecodecamp {
+.btn-freecodecamp 
+.btn-github {
     font-size: 1.6em;
     background-color: dimgrey;
 }
@@ -177,6 +178,9 @@ hr{
 
 .btn-linkedin:hover{
     background-color: #007BB6;
+}
+.btn-github:hover{
+    background-color: #444444;
 }
 
 .btn-freecodecamp:hover{
