@@ -165,13 +165,14 @@ hr{
 
  
  
-.btn-linkedin,  
-.btn-freecodecamp, 
-.btn-github {
+ 
+
+.btn-linkedin, 
+.btn-github, 
+.btn-freecodecamp {
     font-size: 1.6em;
     background-color: dimgrey;
 }
-
 .btnList{
     padding-top: 30px;
 }
