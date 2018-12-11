@@ -47,7 +47,8 @@ height:600px !important;
     top: 0px;
     left: 0px;
 bottom:300px;
-    display: block;  
+    display: block;
+	margin:0px;
 }
 
 
